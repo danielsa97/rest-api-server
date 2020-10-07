@@ -11,7 +11,9 @@ Aplicação back-end(Java) para servir api rest (processo seletivo)
 ### Notas
 Para configurar a conexão com o banco de dados, acesso o arquivo
 `application.properties` disponível em:\
-`rest-api-server/src/main/resources/application.properties`
+`rest-api-server/src/main/resources/application.properties`.
+
+Segue abaixo exemplo de configuração.
 
 ```
 server.port=80
