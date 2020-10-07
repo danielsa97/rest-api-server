@@ -2,13 +2,13 @@
 Aplicação back-end(Java) para servir api rest (processo seletivo)
 
 
-# Requisitos
+### Requisitos
 - Java: 8
 - Spring Boot: 2.3
 - Tomcat: 8^ 
 - PostgreSQL: 10^
 
-# Notas
+### Notas
 Para configurar a conexão com o banco de dados, acesso o arquivo
 `application.properties` disponível em:\
 `rest-api-server/src/main/resources/application.properties`
